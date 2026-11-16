@@ -1,3 +1,3 @@
 # java-script\
-B. Part 2: Essay Questions
+B. Part 2: Essay Questions (soon..)
 
