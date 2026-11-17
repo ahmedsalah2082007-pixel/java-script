@@ -1,5 +1,5 @@
 # java-script\
-B. Part 2: Essay Questions (soon..)
+B. Part 2: Essay Questions 
 
 1) forEach : Array method execute a callback fun. and doesn't have break or continue.
  
@@ -25,7 +25,11 @@ ex::
 console.log(5 === "5"); // false
 console.log(5 === 5);   // true 
 
-4) 
+4) try : contains code that may have an error.
+   
+   catch : handle error if happened.
+
+   important : handle errors in async operations and prevent program from crashing.
 
 5) conversion : means changing a value from one data type to another manually.
 
