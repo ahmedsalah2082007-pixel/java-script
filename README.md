@@ -27,6 +27,10 @@ console.log(5 === 5);   // true
 
 4) 
 
-5) conversion :
+5) conversion : means changing a value from one data type to another manually.
 
-   coercion :   
+   coercion :  means JavaScript automatically converts a value from one data type to another.
+
+ ex::
+ Number("10"); //10
+ 5 + "5";     //"55" 
