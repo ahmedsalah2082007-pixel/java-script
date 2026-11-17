@@ -9,13 +9,21 @@ when use : to do action on array elements.
    
 when use : need break or continue 
 
-2) hoisting :
+2) hoisting : JavaScript behavior where declarations are processed before code execution within their scope.
 
-   TDZ :
+   TDZ : the period between entering a scope and reaching the variable declaration.
 
-3) == :
+ex :: 
+    console.log(name); // ReferenceError
+    let name = "Ahmed";
 
-   === :   
+3) == : Compares values after performing type coercion when necessary.
+
+   === : Compares both value and data type without type coercion.
+
+ex::
+console.log(5 === "5"); // false
+console.log(5 === 5);   // true 
 
 4) 
 
